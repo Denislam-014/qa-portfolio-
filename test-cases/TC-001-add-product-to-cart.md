@@ -23,12 +23,10 @@ Expected Result
 
 The selected product appears in the shopping cart with the correct quantity.
 
-Actual Result
-
-Not tested.
+Actual Result: The product Sauce Labs Backpack was successfully added to the cart. The button changed to Remove, and the cart displayed 1 item.
 
 Status
 
-Not Run
+passed 
 
 Note: This is an educational test case. It has not been executed against a real application.
