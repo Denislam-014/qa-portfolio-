@@ -1,0 +1,30 @@
+TC-003: Sort Products by Price (Low to High)
+
+Module: Product Catalog
+Priority: Medium
+Type: Functional Testing
+Status: Passed
+
+Preconditions
+
+* The user is logged in.
+* The product catalog is displayed.
+
+Test Steps
+
+1. Open the product catalog.
+2. Find the sorting dropdown.
+3. Select “Price (low to high)”.
+4. Check the order of product prices.
+
+Expected Result
+
+Products are displayed in ascending order of price.
+
+Actual Result
+
+Products were displayed in ascending order of price.
+
+Test Result
+
+Passed
